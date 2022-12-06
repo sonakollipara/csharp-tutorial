@@ -1,3 +1,3 @@
 #GIT TUTORIAL LEARN GIT
 
-Learn my firt git 
+Learn my first git 
